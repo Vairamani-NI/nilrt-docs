@@ -24,6 +24,7 @@ NI Linux Real-Time Documentation and Tutorials
    eapol/eapol
    usbguard/usbguard
    clamav/clamav
+   safemode_upgrade/safemode_upgrade
 
 .. toctree::
     :maxdepth: 2
